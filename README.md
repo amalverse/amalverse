@@ -8,7 +8,7 @@
 - 🛣️ Web Dvelopment Roadmap- HTML-CSS-JAVASCRIPT -> REACT-BOOTSTRAP-TYPESCRIPT -> NODE.JS-EXPESS-MYSQL-MONGODB
 - 🛣️ Android Dvelopment Roadmap- Java -> Kotlin
 - 🛣️ Interview Roadmap- Java + DSA
-- <!---
+- 
 amalverse/amalverse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
