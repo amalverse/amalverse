@@ -9,7 +9,6 @@
 - 🛣️ Android Dvelopment Roadmap- Java -> Kotlin
 - 🛣️ Interview Roadmap- Java + DSA
 
-- <img scr="https://static.vecteezy.com/system/resources/thumbnails/012/720/075/small_2x/cloud-computing-social-media-banner-hi-tech-cloud-connection-technology-linkedin-cover-internet-business-technology-header-global-data-information-exchange-background-illustration-vector.jpg">
 amalverse/amalverse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
