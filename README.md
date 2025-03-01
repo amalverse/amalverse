@@ -4,7 +4,6 @@ Here's a **well-structured and visually appealing GitHub README template** for y
 
 # 🚀 **Amal Kishor** | *Web Developer & Coder*  
 
-![Profile Banner](https://source.unsplash.com/1600x400/?technology,coding)  
 
 ## 👋 **Hey there! I'm Amal Kishor**  
 A passionate **Web Developer** with expertise in **Frontend, Backend, and DSA in Java**. I love building interactive web applications, solving coding challenges, and continuously learning new technologies.  
@@ -59,10 +58,10 @@ A passionate **Web Developer** with expertise in **Frontend, Backend, and DSA in
 ---
 
 ## 📫 **Let's Connect!**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-242424?style=for-the-badge&logo=vercel)](yourportfolio.com)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/your-profile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/amalverse)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amalverse)  
+//[![Portfolio](https://img.shields.io/badge/Portfolio-242424?style=for-the-badge&logo=vercel)](yourportfolio.com)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/amalverse)  
 
 🚀 **“Code, Learn, and Keep Growing!”** 🚀  
 
