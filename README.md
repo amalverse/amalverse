@@ -12,7 +12,7 @@ A passionate **Web Developer** with expertise in **Frontend, Backend, and DSA in
 - 🎓 Engineering Graduate | Web & Software Developer  
 - 💻 I specialize in **MERN Stack, PHP, SQL, and Frontend Development**  
 - 🏆 Currently enhancing my **DSA skills in Java**  
-- 📚 Preparing for **UPSC Prelims 2025**  
+- 📚 Preparing for **Web Developer Role in Tech and IT Company**  
 - 🎯 Love problem-solving, open-source contributions, and tech innovations  
 
 ---
