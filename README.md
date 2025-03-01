@@ -1,6 +1,4 @@
-Here's a **well-structured and visually appealing GitHub README template** for you:  
 
----
 
 # 🚀 **Amal Kishor** | *Web Developer & Coder*  
 
@@ -65,13 +63,5 @@ A passionate **Web Developer** with expertise in **Frontend, Backend, and DSA in
 
 🚀 **“Code, Learn, and Keep Growing!”** 🚀  
 
----
 
-### 🎯 **Feel free to fork & star my repositories!** ⭐  
-
----
-
-### 🔥 **Want to add cool animations?**  
-- You can add GIFs and more stats using **[GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)**  
-- Try **[Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter)**  
 
