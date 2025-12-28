@@ -4,14 +4,14 @@
 
 
 ## 👋 **Hey there! I'm Amal Kishor**  
-A passionate **Web Developer** with expertise in **Frontend, Backend, and DSA in Java**. I love building interactive web applications, solving coding challenges, and continuously learning new technologies.  
+A passionate **Web Developer** with expertise in **Frontend and Backend**. I love building interactive web applications, solving coding challenges, and continuously learning new technologies.  
 
 ---
 
 ## 📌 **About Me**  
 - 🎓 Engineering Graduate | Web & Software Developer  
 - 💻 I specialize in **MERN Stack, PHP, SQL, and Frontend Development**  
-- 🏆 Currently enhancing my **DSA skills in Java**  
+- 🏆 Currently enhancing my **DSA skills**  
 - 📚 Preparing for **Web Developer Role in Tech and IT Company**  
 - 🎯 Love problem-solving, open-source contributions, and tech innovations  
 
@@ -50,7 +50,7 @@ A passionate **Web Developer** with expertise in **Frontend, Backend, and DSA in
 
 ## 📌 **What I’m Currently Working On**  
 ✔️ Building **MERN Stack Projects**  
-✔️ Improving **DSA with Java**  
+✔️ Improving **DSA**  
 ✔️ Learning **New Tech Stacks**  
 
 ---
