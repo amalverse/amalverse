@@ -78,9 +78,10 @@ Aspiring **Web Developer / Software Engineer** seeking opportunities in **Tech &
 ---
 
 ## 📊 GitHub Stats
-
-![Amal’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=amalverse&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amalverse&layout=compact&theme=tokyonight)
+![amalverse's GitHub stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=amalverse&theme=default&chart=bars)
+![amalverse's Language stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=amalverse&type=languages&theme=default&chart=bars)
+![amalverse's Contribution stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=amalverse&type=contributions&theme=default)
+![amalverse's Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=amalverse&type=top-repos&theme=default)
 
 ---
 
