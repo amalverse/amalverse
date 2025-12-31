@@ -41,9 +41,23 @@ I enjoy building scalable web apps, solving problems, and learning new technolog
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amalverse&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amalverse&theme=tokyonight" width="48%" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=amalverse&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="165"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=amalverse&theme=tokyonight&hide_border=true" 
+    height="165"
+  />
 </p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalverse&layout=compact&theme=tokyonight&hide_border=true" 
+    height="165"
+  />
+</p>
+
 
 ---
 
