@@ -13,7 +13,7 @@ Aspiring **Web Developer / Software Engineer** seeking opportunities in **Tech &
 
 ## 📌 About Me
 - 🎓 Engineering Graduate | Computer Science (Cloud Computing – Pursuing)
-- 💻 Skilled in **MERN Stack, SQL & Modern Frontend**
+- 💻 Skilled in **MERN Stack, SQL & Modern Frontend and Backend**
 - 🧠 Actively improving **Data Structures & Algorithms**
 - 🔍 Strong understanding of **REST APIs, MVC, Authentication & State Management**
 - ⚡ Experience using **GitHub Copilot & ChatGPT** for faster development
