@@ -1,63 +1,91 @@
-# Amal Kishor
+<h1 align="center">Hi 👋, I'm Amal Kishor</h1>
+<h3 align="center">Full Stack Web Developer (MERN) | AI Automation Enthusiast</h3>
 
-**Full-Stack Web Developer (MERN)**
-
-I build full-stack web applications using React, Node.js, and MongoDB.
-Background in IT Operations & data systems, which helps me design applications with proper validation, user workflows, and reliable data handling.
-
----
-
-## Tech Stack
-
-**Frontend:** HTML, CSS, JavaScript, React.js, Redux, Tailwind CSS
-**Backend:** Node.js, Express.js
-**Database:** MongoDB, MySQL
-**Tools:** Git, GitHub, Postman, Vercel, Netlify
+<p align="center">
+  <a href="https://github.com/amalverse">
+    <img src="https://komarev.com/ghpvc/?username=amalverse&label=Profile%20views&color=0e75b6&style=flat" alt="amalverse" />
+  </a>
+</p>
 
 ---
 
-## Featured Projects
-
-### 🛒 ShopVerse — Full-Stack E-Commerce Application
-
-* User authentication and protected routes
-* Product search, filtering and cart workflow
-* REST API integration (frontend ↔ backend)
-* Database storage for users and orders
-
-**Tech:** React, Node.js, Express, MongoDB
+## 🚀 About Me
+- 💻 Full Stack Developer with **1+ year experience in MERN stack**
+- 🤖 Passionate about **AI-powered automation & workflow systems (n8n)**
+- 🌐 Building scalable apps with **clean architecture & real-world impact**
+- ⚡ Focused on performance, security, and user experience
 
 ---
 
-### 🗂 Task Manager — CRUD Application
+## 🛠️ Tech Stack
 
-* Create, update, delete and complete tasks
-* State management using Redux Toolkit
-* Persistent storage using localStorage
+### 💻 Languages
+- JavaScript | Python
 
-**Tech:** React, Redux, JavaScript
+### 🎨 Frontend
+- React.js | Redux | Next.js  
+- Tailwind CSS | Bootstrap  
+- HTML5 | CSS3  
 
----
+### ⚙️ Backend
+- Node.js | Express.js  
+- REST APIs | JWT Authentication  
 
-### 👕 Myntra Functional Clone
+### 🗄️ Databases
+- MongoDB | SQL  
 
-* Product listing and cart functionality
-* DOM manipulation and LocalStorage usage
-* Responsive UI with Flexbox/Grid
-
-**Tech:** HTML, CSS, JavaScript
-
----
-
-## Currently Learning
-
-* Improving backend API design
-* Database schema design
-* Writing cleaner and maintainable code
+### 🔧 Tools & Platforms
+- Git | GitHub | Postman | VS Code  
+- Vercel | Render  
+- n8n | AI API Integration  
 
 ---
 
-## Contact
+## 🔥 Projects
 
-📧 Email: [contact.amalkishor@gmail.com](mailto:contact.amalkishor@gmail.com)
-💼 LinkedIn: https://linkedin.com/in/amalverse
+### 🛒 ShopVerse – Full Stack E-Commerce Platform
+- Built scalable e-commerce platform with cart & order system
+- Implemented JWT authentication & role-based access
+- Optimized APIs & database queries for performance  
+
+🔗 [GitHub](https://github.com/amalverse) | 🌐 Live Demo
+
+---
+
+### 🎬 Entertainment App – Media Platform
+- Dynamic content browsing with user personalization  
+- Protected routes & authentication system  
+- Lazy loading for performance optimization  
+
+🔗 [GitHub](https://github.com/amalverse) | 🌐 Live Demo
+
+---
+
+### 🤖 AI-Powered Document Orchestrator
+- Workflow automation using **n8n + webhooks**
+- AI-powered document processing (summarization, classification)
+- Real-time automation pipelines  
+
+🔗 [GitHub](https://github.com/amalverse) | 🌐 Live Demo
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amalverse&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalverse&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+- 📧 Email: contact.amalkishor@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/amalverse  
+- 🧑‍💻 GitHub: https://github.com/amalverse  
+
+---
+
+## ⚡ Fun Fact
+I love building **real-world projects with AI + automation** 🚀
