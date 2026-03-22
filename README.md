@@ -104,14 +104,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amalverse/amalverse/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## ⚡ Fun Fact
 
 💡 I build **real-world projects combining AI + full-stack development**
