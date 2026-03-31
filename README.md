@@ -1,7 +1,9 @@
-<h1 align="center">Amal Kishor</h1>
+<h1 align="center">
+  Amal Kishor
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Scalable+Web+Applications;MERN+%7C+APIs+%7C+Systems+Design" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Building+Scalable+Web+Applications;MERN+%7C+APIs+%7C+System+Design" />
 </p>
 
 <p align="center">
@@ -14,15 +16,15 @@
 
 ## 💻 About
 
-Full-Stack Developer focused on building scalable, production-ready web applications.
+Full-Stack Developer focused on building scalable, production-ready applications.
 
-I work across the entire stack — designing responsive frontends, developing secure backend APIs, and integrating real-world systems like authentication, payments, and external services.
+I work across the entire stack — from designing clean, responsive frontends to developing secure backend systems and APIs. I focus on performance, maintainability, and real-world problem solving.
 
-I also explore AI and automation to enhance applications where it adds real value.
+I also integrate AI and automation where it adds practical value.
 
 ---
 
-## 🧠 Tech Stack
+## ⚙️ Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,tailwind,redux,git,vercel" />
@@ -32,35 +34,35 @@ I also explore AI and automation to enhance applications where it adds real valu
 
 ## 🚀 Projects
 
-### 🛒 ShopVerse — E-Commerce Platform  
+### 🛒 ShopVerse  
 🔗 https://shopverse-five-liard.vercel.app/  
 💻 https://github.com/amalverse/ShopVerse  
 
-- Full-stack MERN e-commerce application with admin dashboard  
-- Secure authentication (JWT + OAuth) and Stripe payment integration  
-- Designed scalable REST APIs with proper data handling  
-- Integrated AI chatbot to enhance user experience  
+- Full-stack MERN e-commerce system  
+- Authentication (JWT + OAuth) and Stripe payments  
+- Scalable API architecture  
+- AI chatbot integration  
 
 ---
 
-### 🧠 Mindora.ai — Wellness Platform  
+### 🧠 Mindora.ai  
 🔗 https://mindora-ai.vercel.app/  
 💻 https://github.com/amalverse/Mindora.ai  
 
-- Full-stack application with authentication, APIs, and analytics  
-- Built features like mood tracking, journaling, and dashboards  
-- Integrated AI for conversational interaction  
-- Implemented secure backend with validation and rate limiting  
+- Full-stack platform with authentication and analytics  
+- Mood tracking and journaling system  
+- Secure backend with validation  
+- AI-powered interaction  
 
 ---
 
-### 🎬 BingeHub — Movie Platform  
+### 🎬 BingeHub  
 🔗 https://entertainment-app-three-jet.vercel.app/  
 💻 https://github.com/amalverse/BingeHub.app  
 
-- Integrated TMDB API for dynamic movie and TV data  
-- Built authentication system and user watchlist feature  
-- Focused on performance, UI responsiveness, and clean state management  
+- TMDB API integration  
+- Authentication and user watchlist  
+- Performance-focused UI  
 
 ---
 
@@ -68,17 +70,33 @@ I also explore AI and automation to enhance applications where it adds real valu
 🔗 https://ai-powered-document-orchestrator.vercel.app/  
 💻 https://github.com/amalverse/AI-Powered-Document-Orchestrator  
 
-- Extracted structured data from documents using AI  
-- Automated workflows using n8n and webhook integrations  
-- Built complete pipeline from upload → processing → delivery  
+- AI document extraction system  
+- n8n workflow automation  
+- End-to-end processing pipeline  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amalverse&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amalverse&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amalverse&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amalverse&theme=tokyonight&hide_border=true&background=00000000" />
+</p>
+
+---
+
+## 🔥 Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amalverse&theme=tokyo-night&hide_border=true&bg_color=00000000" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amalverse/amalverse/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -102,6 +120,6 @@ I also explore AI and automation to enhance applications where it adds real valu
 ## ⚡ Focus
 
 - Full-Stack Development (Primary)
-- Scalable APIs & System Design
-- Performance & Clean Architecture
+- Scalable APIs & Backend Systems
+- Clean Architecture & Performance
 - AI & Automation (Applied where useful)
