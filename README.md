@@ -10,17 +10,11 @@
   <a href="https://amal-dev-ten.vercel.app/">Portfolio</a> • 
   <a href="https://github.com/amalverse">GitHub</a> • 
   <a href="https://linkedin.com/in/amalverse">LinkedIn</a>
-</p>
-
----
-<p align="center">
-  <a href="https://github.com/amalverse/amalverse/blob/main/Frontend%20Developer%20Resume.pdf">
-    View Resume
-  </a> • 
   <a href="https://github.com/amalverse/amalverse/raw/main/Frontend%20Developer%20Resume.pdf">
     Download Resume
   </a>
 </p>
+
 ---
 
 ## 💻 About
