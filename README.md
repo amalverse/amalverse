@@ -1,101 +1,114 @@
 <h1 align="center">Hi 👋, I'm Amal Kishor</h1>
-<h3 align="center">🚀 Full Stack Developer (MERN) | 🤖 AI Automation Builder</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amalverse&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);AI+%26+Automation+Builder;Building+Real-World+Scalable+Apps" />
+</p>
+
+<p align="center">
+  <a href="https://amal-dev-ten.vercel.app/">🌐 Portfolio</a> • 
+  <a href="https://github.com/amalverse">GitHub</a> • 
+  <a href="https://linkedin.com/in/amalverse">LinkedIn</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amalverse&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-💻 Full Stack Developer with **1+ year experience** building scalable web apps
-🤖 Passionate about **AI + Automation (n8n, APIs)**
-⚡ Focused on **performance, clean architecture & real-world impact**
-🌱 Currently improving **DSA & system design**
-🎯 Goal: Become **Top Software Engineer + AI Builder**
+💻 Full Stack Developer building **real-world web applications**  
+🤖 Focused on **AI systems & automation (Gemini, Groq, n8n)**  
+⚡ Skilled in **MERN stack, authentication, APIs & integrations**  
+🌱 Currently improving **DSA & system design**  
+🎯 Goal: Become a **top-tier Software Engineer & AI Builder**
 
 ---
 
 ## 🧠 Tech Stack
 
-### 💻 Languages
+<p align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
+<img src="https://skillicons.dev/icons?i=js,python,react,nextjs,nodejs,express,mongodb,tailwind,redux,git,vercel" />
 
-### 🎨 Frontend
-
-![React](https://img.shields.io/badge/React-black?logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css)
-![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux)
-
-### ⚙️ Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?logo=express)
-
-### 🗄️ Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb)
-![SQL](https://img.shields.io/badge/SQL-blue)
-
-### 🔧 Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-orange?logo=git)
-![Postman](https://img.shields.io/badge/Postman-orange?logo=postman)
-![Vercel](https://img.shields.io/badge/Vercel-black?logo=vercel)
-![Render](https://img.shields.io/badge/Render-purple)
-![n8n](https://img.shields.io/badge/n8n-red)
+</p>
 
 ---
 
 ## 🔥 Featured Projects
 
-### 🛒 ShopVerse – E-Commerce Platform
+### 🛒 ShopVerse — AI E-Commerce Platform  
+🔗 https://shopverse-five-liard.vercel.app/  
+💻 https://github.com/amalverse/ShopVerse  
 
-[![Live](https://img.shields.io/badge/Live-Demo-green)](https://shop-verse-full-stack-e-commerce-we.vercel.app/)
-[![Repo](https://img.shields.io/badge/GitHub-Repo-black)](https://github.com/amalverse/ShopVerse-Full-Stack-E-Commerce-Website)
-
-✔ Full-stack MERN e-commerce system
-✔ JWT authentication & role-based access
-✔ Optimized APIs and scalable architecture
-
----
-
-### 🎬 Entertainment App – Media Platform
-
-[![Live](https://img.shields.io/badge/Live-Demo-green)](https://entertainment-app-three-jet.vercel.app/)
-[![Repo](https://img.shields.io/badge/GitHub-Repo-black)](https://github.com/amalverse/Entertainment-App)
-
-✔ Personalized media browsing experience
-✔ Secure authentication & protected routes
-✔ Lazy loading & performance optimization
+- Full-stack MERN e-commerce system  
+- Stripe payments + JWT/OAuth authentication  
+- AI chatbot (Google Gemini)  
+- Scalable REST APIs with Swagger  
 
 ---
 
-### 🤖 AI Document Orchestrator
+### 🧠 Mindora.ai — AI Mental Wellness  
+🔗 https://mindora-ai.vercel.app/  
+💻 https://github.com/amalverse/Mindora.ai  
 
-[![Live](https://img.shields.io/badge/Live-Demo-green)](https://ai-powered-document-orchestrator.vercel.app/)
-[![Repo](https://img.shields.io/badge/GitHub-Repo-black)](https://github.com/amalverse/AI-Powered-Document-Orchestrator)
+- AI chatbot with real-time responses  
+- Mood tracking + journaling + analytics  
+- OAuth + JWT authentication  
+- Secure backend with validations  
 
-✔ AI-powered document workflows
-✔ n8n automation with webhook integration
-✔ Real-time processing pipelines
+---
+
+### 🎬 BingeHub — Movie Platform  
+🔗 https://entertainment-app-three-jet.vercel.app/  
+💻 https://github.com/amalverse/BingeHub.app  
+
+- TMDB API integration  
+- Authentication + watchlist system  
+- Responsive UI + performance optimization  
+
+---
+
+### 🤖 AI Document Orchestrator  
+🔗 https://ai-powered-document-orchestrator.vercel.app/  
+💻 https://github.com/amalverse/AI-Powered-Document-Orchestrator  
+
+- AI document extraction (Groq Llama 3)  
+- n8n workflow automation  
+- Email automation pipeline  
+- End-to-end AI system  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amalverse&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amalverse&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/amalverse"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a>
-  <a href="mailto:contact.amalkishor@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail"></a>
-  <a href="https://github.com/amalverse"><img src="https://img.shields.io/badge/GitHub-black?logo=github"></a>
+  <a href="https://amal-dev-ten.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-black?logo=vercel">
+  </a>
+  <a href="https://linkedin.com/in/amalverse">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin">
+  </a>
+  <a href="mailto:contact.amalkishor@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail">
+  </a>
+  <a href="https://github.com/amalverse">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github">
+  </a>
 </p>
 
 ---
 
 ## ⚡ Fun Fact
 
-💡 I build **real-world projects combining AI + full-stack development**
+💡 I build **real-world applications combining AI + full-stack development + automation**
